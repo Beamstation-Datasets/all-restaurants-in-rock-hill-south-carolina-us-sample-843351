@@ -1,0 +1,12 @@
+{
+  "export_job_id": "61f6a435-b891-490a-9aa8-45cdcffaf6af",
+  "id_short": 843351,
+  "published_at": "2026-04-15T19:37:09Z",
+  "repo_name": "all-restaurants-in-rock-hill-south-carolina-us-sample-843351",
+  "sample_asset_name": "beamstation_843351_restaurants-us-sc_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/843351/beamstation_843351_restaurants-us-sc_SAMPLE_DIST.csv",
+  "sample_records": 30,
+  "sample_sha256": "7012a5cbef76defa5f4ff013293734e0e0731902c05d39cc919cf9178899769b",
+  "sample_size_bytes": 127354,
+  "total_records": 303
+}
