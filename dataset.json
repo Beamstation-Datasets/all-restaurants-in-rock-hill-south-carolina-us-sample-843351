@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for Rock Hill in the Southeast. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Rock Hill, South Carolina, US",
-  "export_job_id": "61f6a435-b891-490a-9aa8-45cdcffaf6af",
+  "export_job_id": "f786a860-fb8c-469c-be64-8dd7875f1458",
   "github_org": "Beamstation-Datasets",
   "id_short": 843351,
   "location_name": "Rock Hill",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/843351/beamstation_843351_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_pct": 9.9,
   "sample_records": 30,
-  "sample_sha256": "7012a5cbef76defa5f4ff013293734e0e0731902c05d39cc919cf9178899769b",
-  "sample_size_bytes": 127354,
+  "sample_sha256": "8961fe8a063dce6cea6ede57f843e4f3a6c1bafade333345dee232ba644761b2",
+  "sample_size_bytes": 125307,
   "total_records": 303,
-  "updated_at": "2026-04-09T13:25:27.593544+00:00"
+  "updated_at": "2026-04-16T13:35:35.911060+00:00"
 }
