@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 303 records |
 | Free sample size | 30 records (9.9%) |
-| Last export | 2026-04-09T13:25:27.593544+00:00 |
+| Last export | 2026-04-16T13:35:35.911060+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-rock-hill-south-carolina-us-sample-843351/releases/download/sample-latest/beamstation_843351_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
